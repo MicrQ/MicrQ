@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student and 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
+      <img src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png" alt="Django" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
