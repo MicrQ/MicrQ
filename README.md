@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student and 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a <b>Certified Backend Developer</b>(<i>ALX_SE</i>)
 - 📝 I'm pursuing my BSc in Computer Science.
-- 🧑‍💻 Tech I work on :
+- 🧑‍💻 Tech I work on:
 
 <p align="center">
       <img src="https://static-00.iconduck.com/assets.00/django-icon-402x512-tkdfpj8s.png" alt="Django" width="55" height="55"/>
