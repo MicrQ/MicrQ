@@ -10,7 +10,7 @@ I'm a **Full-Stack Software Developer** specializing in building and maintaining
 - 🎓 Currently a student at **A2SV (Africa to Silicon Valley)** - a Google-backed organization, studying advanced data structures and algorithms with hands-on experience in backend, frontend, and mobile development
 - 🔍 Actively seeking new opportunities to leverage my software development skills for meaningful impact
 
-### Connect with Me:
+### My Socials:
 <p align="center">
   <a href="https://x.com/abenet_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="https://linkedin.com/in/abenetg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
