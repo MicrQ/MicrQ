@@ -1,14 +1,6 @@
 # Hi there! 👋
 
-## Welcome to my GitHub profile!
-I'm a **Full-Stack Software Developer** specializing in building and maintaining ERP systems, including industrial production management, sales and inventory management, procurement management, and more. My work focuses on developing scalable solutions that automate workflows and improve business efficiency.
-
-### About Me:
-- 🏢 Currently working as a **Full-Stack Developer** on ERP systems
-- 🎓 Hold a **BSc in Computer Science** from Infolink University College
-- 🎓 Graduate of the **12-month ALX Software Engineering Program**
-- 🎓 Currently a student at **A2SV (Africa to Silicon Valley)** - a Google-backed organization, studying advanced data structures and algorithms with hands-on experience in backend, frontend, and mobile development
-- 🔍 Actively seeking new opportunities to leverage my software development skills for meaningful impact
+I am a Software engineer and CS graduate with hands-on experience shipping production systems across multiple sectors. Trained African talent at <a href="https://a2sv.org">A2SV | Africa to Silicon Valley</a> as Head of Education, and led teams from design to delivery. Currently going deep on **System design**, **Advanced DSA**, and **Agentic AI** — working toward big tech and a world-class engineering standard.
 
 ### My Socials:
 <p align="center">
