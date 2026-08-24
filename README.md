@@ -1,6 +1,10 @@
-# Hi there! 👋
+# 👋Hey! I'm Abenet, aka MicrQ 
 
-I am a Software engineer and CS graduate with hands-on experience shipping production systems across multiple sectors. Trained African talent at <a href="https://a2sv.org">A2SV | Africa to Silicon Valley</a> as Head of Education, and led teams from design to delivery. Currently going deep on **System design**, **Advanced DSA**, and **Agentic AI** — working toward big tech and a world-class engineering standard.
+I'm a Software Engineer focused on system design, distributed systems, and backend infrastructure.
+
+I build reliable, scalable, and production-grade software, with strong interests in highly scalable, cloud-native architecture and performance engineering. I'm currently going deep on system design, advanced data structures and algorithms, and agentic AI.
+
+My long-term goal is to build meaningful systems that matter at scale, whether that's inside a big tech company or a startup I help build.
 
 ### My Socials:
 <p align="center">
