@@ -40,6 +40,7 @@ My long-term goal is to build meaningful systems that matter at scale, whether t
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=micrq&theme=dark&hide_border=true" />
 </p>
+
 ---
 
 Feel free to connect with me to discuss potential opportunities! 🚀
