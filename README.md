@@ -37,9 +37,9 @@ My long-term goal is to build meaningful systems that matter at scale, whether t
 </p>
 
 ### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micrq&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=micrq&theme=dark)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=micrq&theme=dark&hide_border=true" />
+</p>
 ---
 
 Feel free to connect with me to discuss potential opportunities! 🚀
